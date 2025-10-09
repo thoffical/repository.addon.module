@@ -13,7 +13,7 @@
             <!-- The URLS below MUST match your GitHub repo -->
             <info compressed="false">https://raw.githubusercontent.com/thoffical/adddonmodule/master/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/thoffical/adddonmodule/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/thoffical/adddonmodule/master/</datadir>
+            <datadir zip="true">https://codeload.github.com/thoffical/adddonmodule/zip/ref/heads/master/</datadir>
         </dir>
     </extension>
 
