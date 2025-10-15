@@ -4,7 +4,7 @@
         <dir>
             <info compressed="false">https://github.com/thoffical/addonmodule.omegapiers/master/repo/zips/addons.xml</info>
             <checksum>https://github.com/thoffical/addonmodule.omegapiers/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/thoffical/addonmodule.omegapiers/master/repo/zips/</datadir>
+            <datadir zip="true">https://github.com/thoffical/addonmodule.omegapiers/raw/master/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
